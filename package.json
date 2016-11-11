@@ -1,0 +1,22 @@
+{
+  "name": "custom-file-button",
+  "version": "1.0.0",
+  "description": "custom file button",
+  "main": "index.html",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itanex/custom-file-button.git"
+  },
+  "author": "Bryan Wood",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itanex/custom-file-button/issues"
+  },
+  "homepage": "https://github.com/itanex/custom-file-button#readme",
+  "devDependencies": {
+    "lite-server": "^2.2.2"
+  }
+}

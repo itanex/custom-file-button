@@ -1,0 +1,30 @@
+{
+  "name": "custom-file-button",
+  "description": "custom file button",
+  "main": "index.html",
+  "authors": [
+    "Bryan Wood"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "input",
+    "html",
+    "file-input"
+  ],
+  "homepage": "https://github.com/itanex/custom-file-button",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-bootstrap": "0.14.3",
+    "angular": "1.4.8",
+    "bootstrap": "3.3.6",
+    "angular-ui-router": "0.2.15"
+  }
+}
